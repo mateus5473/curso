@@ -1,4 +1,5 @@
-# Introdução a informática básica #
+# Introdução a informatica básica 💻 #
+
 ## Modulo I
 
 ### O que vou aprender nesse curso?
